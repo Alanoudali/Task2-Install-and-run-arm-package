@@ -37,4 +37,8 @@ source ~/.bashrc
 
 When this command is inserted, the package is opened and the program is run
 
-roslaunch robot_arm_pkg check_motors.launch ‏‏لقطة الشاشة (720) ‏‏لقطة الشاشة (722)
+roslaunch robot_arm_pkg check_motors.launch 
+![‏‏لقطة الشاشة (719)](https://user-images.githubusercontent.com/108764959/180836245-fd7c9170-a067-4ac8-bd1f-82011aeda109.png)
+![‏‏لقطة الشاشة (722)](https://user-images.githubusercontent.com/108764959/180836288-125571fe-0ddb-4852-a6d3-65f32494f1d5.png)
+
+
